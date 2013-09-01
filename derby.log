@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Aug 11 17:09:31 AMT 2013:
+ Inicializando o Derby vers?o The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): inst?ncia a816c00e-0140-6f36-6a42-000011e69a10
+no diret?rio de banco de dados /private/var/folders/09/9_f5ss313k16tq9480gzwdj80000gn/T/gfembed4046526737983695039tmp/lib/databases/embedded_default  
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b15
+user.dir=/Users/gilliard/workspaces/netbeans/cdi-arquillian
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
